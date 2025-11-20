@@ -1,0 +1,8 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "c:\\Users\\danic\\Desktop\\GS\\Sistema tempo real\\esp-idf-v5.4.2",
+  "idf.toolsPathWin": "C:\\Users\\danic\\.espressif",
+  "idf.pythonInstallPath": "C:\\Users\\danic\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.portWin": "COM6",
+  "idf.flashType": "UART"
+}
